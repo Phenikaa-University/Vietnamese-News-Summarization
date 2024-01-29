@@ -79,7 +79,7 @@ class Preprocess_News_dataset():
         Preprocess a string.
         :parameter
             :param txt: string - name of column containing text
-            :param lst_regex: list - list of regex to remove
+            :param lst_resgex: list - list of regex to remove
             :param punkt: bool - if True removes punctuations and characters
             :param lower: bool - if True convert lowercase
             :param lst_stopwords: list - list of stopwords to remove
@@ -114,5 +114,5 @@ class Preprocess_News_dataset():
         txt = " ".join(lst_txt)
         return txt
     
-data_path = "data/Dataset_articles.csv"
-preprocess = Preprocess_News_dataset(data_path, save_path="data").read_data()
+# data_path = "data/Dataset_articles.csv"
+# preprocess = Preprocess_News_dataset(data_path, save_path="data").read_data()
