@@ -1,0 +1,30 @@
+0   vaccine alloy-ek được nghiên cứu để ngăn tình trạng nhiễm trùng tiểu, từ đó giảm kê đơn kháng sinh và gián tiếp hạn chế tình trạng kháng thuốc
+0   trong văn phòng của một trung tâm ươm tạo công nghệ sinh học ở minnesota (mỹ) vào đầu tháng 2, một loại vaccine có thể ngăn nhiễm trùng ở phụ nữ, giảm tỷ lệ tử vong ở trẻ sơ sinh, đang được nghiên cứu cẩn thận
+1    mũi tiêm nhắm vào protein thụ thể sắt của escherichia coli và klebsiella pneumoniae, hai vi khuẩn gây ra bệnh nhiễm trùng đường tiết niệu
+0   theo nhiều nghiên cứu, nhiễm trùng đường tiết niệu ảnh hưởng đến hơn 150 triệu người trên thế giới hàng năm, đồng thời là lý do gây tăng sử dụng thuốc kháng sinh
+0    ước tính khoảng 25-30% phụ nữ bị nhiễm trùng tiểu tái phát, phải điều trị bằng kháng sinh từ vài tuần đến vài tháng
+0   hai vi khuẩn này cũng nằm trong nhóm các nguyên nhân hàng đầu gây nhiễm trùng ở trẻ sơ sinh, với khoảng 2,5 triệu ca tử vong mỗi năm, đa số ở các nước thu nhập thấp và trung bình
+0   theo đại diện nhóm nghiên cứu, thai phụ có nguy cơ nhiễm trùng tiểu cao hơn
+0    nếu vaccine thành công và được tiêm chủng ở mẹ bầu, về mặt lý thuyết sẽ giúp ngăn ngừa nhiễm trùng tiểu, kháng thể truyền từ mẹ sang con giúp tăng miễn dịch ở em bé sinh ra
+0    từ đó, vaccine gián tiếp giảm tình trạng kháng thuốc
+0   tình trạng kháng thuốc có thể được giảm thiểu khi có vaccine ngăn nhiễm trùng
+0    ảnh: pexelshiện, mũi tiêm cần nghiên cứu trên người để chứng minh mức độ an toàn và tính hiệu quả
+0    tiến sĩ herron-olson cho biết đang gặp nhiều rào cản về mặt khoa học và tài chính
+0    việc nghiên cứu lâm sàng vaccine rất lâu dài và tốn kém, cần đầu tư thêm
+0    bên cạnh đó, mũi tiêm ngừa vi khuẩn khó phát triển hơn loại ngừa virus, do vi khuẩn chứa nhiều loại kháng nguyên hơn
+0   nhóm nghiên cứu còn cần chứng minh alloy-ek an toàn và hiệu quả ở những phụ nữ bị nhiễm trùng tiểu tái phát
+0    khi thử nghiệm trên mô hình động vật bị nhiễm trùng, mũi tiêm giúp giảm mức độ nghiêm trọng của bệnh
+0    tuy nhiên, đây chưa phải là bằng chứng cho thấy vaccine sẽ hoạt động trên người, đòi hỏi thêm nhiều nghiên cứu sâu hơn
+0   kháng kháng sinh là một trong những mối đe dọa lớn nhất đối với sức khỏe toàn cầu
+0    tổ chức y tế thế giới (who) đánh giá kháng kháng sinh ảnh hưởng tới mọi đối tượng ở nhiều độ tuổi
+0    các bệnh viêm phổi, lao, lậu và nhiễm khuẩn salmonella trở nên khó điều trị hơn do thuốc kháng sinh dần kém hiệu quả
+0   thế giới đã có các vaccine phòng vi khuẩn kháng thuốc, ví dụ mũi tiêm phòng phế cầu khuẩn streptococcus pneumoniae, loại ngừa virus gây thương hàn salmonella enterica serovar typhi và haemophilusenzae loại b (hib)
+0   alloy-ek nằm trong số 61 ứng viên được who thống kê trong một phân tích năm 2021 về quy trình lâm sàng và tiền lâm sàng của vaccine dựa trên vi khuẩn
+0    who cho biết chủng ngừa là lựa chọn rất hấp dẫn trong bối cảnh nguồn cung thuốc kháng sinh mới còn yếu kém
+0    vaccine giúp giảm hoặc ngăn ngừa các bệnh nhiễm trùng, trong đó có nhóm dẫn đến sử dụng và lạm dụng kháng sinh
+0   một số mầm bệnh khác cũng thu hút sự quan tâm của các nhà khoa học, ví dụ shigella, căn nguyên hàng đầu gây bệnh tiêu chảy ở trẻ dưới 5 tuổi và là nguyên nhân phổ biến tăng sử dụng kháng sinh
+0    nghiên cứu được công bố trên tạp chí plos medicine, cho thấy vaccine ngừa shigella hai liều đang được thử nghiệm, hiệu quả 60%, chỉ định cho trẻ 9 và 12 tháng
+0    mũi tiêm có thể giúp cắt giảm 34,5% lượng kháng sinh dùng để điều trị bệnh
+0   chi lê (theo cidrap)bạn đã được chuyển sang trang đăng ký của vnvc, đối tác vnexpress
+
+

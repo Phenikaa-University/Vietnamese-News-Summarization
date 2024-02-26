@@ -1,0 +1,34 @@
+0   mỹ đang phát triển một mẫu tàu ngầm tấn công hạt nhân mới, được kỳ vọng đánh bại các đối thủ cạnh tranh sau khi ra mắt
+1   hải quân mỹ lần đầu công bố dự án phát triển tàu ngầm tấn công thế hệ mới mang tên ssn(x) cách đây một thập kỷ, nhằm thay thế tàu ngầm hạt nhân lớp viriginia
+0    theo kế hoạch, lực lượng này sẽ hoàn thành phân tích yêu cầu về kỹ thuật của dự án trong năm nay và bắt đầu chế tạo ssn(x) từ giữa năm 2030
+0   hải quân mỹ đã đề xuất khoản ngân sách 554,7 triệu usd trong năm tài khóa 2024 cho nghiên cứu, phát triển tàu thuộc dự án ssn(x), tăng 130% so với năm ngoái
+0    trong đó, 361,6 triệu usd sẽ được sử dụng cho hoạt động phát triển tổng quát, số còn lại dùng cho việc chế tạo động cơ hạt nhân trang bị trên mẫu tàu ngầm thế hệ mới
+0   ước tính tàu ssn(x) sẽ có giá 6,7-8 tỷ usd mỗi chiếc
+0    nguyên nhân khiến mỹ quyết định chi hàng tỷ usd cho lớp tàu ngầm tấn công này được cho là sự trỗi dậy của hải quân trung quốc và nga gần đây, theo popular mechanics
+0   sản phẩm đầu tiên của dự án ssn(x) dự kiến hạ thủy vào năm 2034, ngay sau khi tàu ngầm lớp virginia cuối cùng được đưa vào biên chế
+0    hải quân mỹ bắt đầu mua tàu lớp virginia từ năm tài khóa 1998, duy trì ở mức hai chiếc một năm từ 2011 tới nay
+0   lực lượng này hiện có tổng cộng 21 tàu lớp ngầm lớp virginia, trong đó ba chiếc là phiên bản block iv
+0    phiên bản mới nhất block v đang trong quá trình chế tạo tại nhà máy của general dynamics và huntington ingalls industries
+0   tàu ngầm hạt nhân lớp virginia uss minnesota được đóng tại nhà máy đóng tàu ở bang virginia tháng 11/2012
+0    ảnh: us navyvirginia được đánh giá là lớp tàu ngầm hiện đại bậc nhất thế giới vào thời điểm ra mắt, được trang bị các tính năng hỗ trợ tiên tiến như công nghệ hình ảnh 3d catia
+0    phiên bản block v được trang bị mô-đun trọng tải virginia (vpm) với 4 ống có khả năng mang 28 tên lửa hành trình tomahawk block v mới nhất, bên cạnh 12 quả đạn đặt trong ống phóng thẳng đứng, giúp con tàu có thể tấn công cả mục tiêu trên mặt đất và dưới nước
+0   tàu ngầm lớp ssn(x) dự kiến cũng được chế tạo bởi các công ty con của general dynamics và huntington ingalls industries, do đây là hai công ty mỹ duy nhất có cơ sở vật chất phù hợp để sản xuất tàu ngầm tấn công hạt nhân
+1   trong bản đề xuất ngân sách phát triển dự án ssn(x) trong năm tài chính 2022, hải quân mỹ cho biết mẫu tàu ngầm thế hệ mới này sẽ có tốc độ di chuyển nhanh và khả năng tàng hình tốt hơn so với tàu lớp cũ, đồng thời có thể hoạt động ở nhiều điều kiện môi trường biển khác nhau
+0   tàu ssn(x) cũng được thiết kế để mang theo nhiều loại vũ khí và thực hiện nhiều nhiệm vụ, trong đó trọng tâm là năng lực tác chiến chống ngầm (asw), bao gồm khả năng ứng phó với lượng lớn tàu ngầm đối phương cùng lúc
+0    trong khi đó, tàu ngầm lớp virginia ban đầu được chế tạo với mục đích chủ yếu là hoạt động ở các khu vực gần bờ biển
+0   "ssn(x) được thiết kế để để ứng phó với mối đe dọa ngày càng tăng từ các đối thủ ngang hàng trong cuộc cạnh tranh giành ưu thế trong lòng biển", hải quân mỹ nhấn mạnh
+0    "nó sẽ có khả năng tác chiến dưới biển một cách toàn diện, cũng như phối hợp hoạt động với các tàu và thiết bị cảm biến khác"
+0   hiện thông số kỹ thuật cụ thể của tàu ngầm ssn(x) chưa được công bố, song giới chuyên gia nhận định tàu sẽ có hệ thống cảm biến thủy âm ở hai bên sườn lớn hơn, động cơ chạy êm hơn và được lắp nhiều ống phóng ngư lôi hơn so với tàu lớp virginia
+0    nó cũng có thể sẽ được trang bị cả vũ khí laser
+0   ảnh đồ họa về tàu ngầm dự án ssn(x)
+0    ảnh: general dynamics electric boatmột số nhà phân tích cũng cho rằng tàu thuộc dự án ssn(x) sẽ mang các đặc điểm của tàu ngầm tấn công lớp seawolf, hiện đã bị dừng sản xuất
+0   đi vào hoạt động từ cuối những năm 1990, seawolf được đánh giá là một trong những lớp tàu ngầm nổi bật nhất ở thời kỳ chiến tranh lạnh
+0    con tàu có khả năng di chuyển với độ ồn thấp ở tốc độ 37 km/h, đạt vận tốc tối đa 65 km/h khi chạy hết công suất, vượt trội các tàu ngầm tên lửa đạn đạo khác của liên xô thời điểm đó
+0    tàu ssn(x) được cho là ít nhất sẽ ngang bằng tàu seawolf về tốc độ và trang bị vũ khí
+0   "thiết kế của tàu ssn(x) sẽ có sự tương đồng với tàu lớp seawolf trên một số khía cạnh, nhưng được bổ sung thêm năng lực tấn công mục tiêu trên đất liền", chuyên gia về tàu ngầm và hệ thống dưới nước h
+0    i
+0    sutton nhận định
+0   mẫu tàu ngầm thế hệ mới của hải quân mỹ cũng được kỳ vọng là sẽ có tuổi thọ hoạt động dài như tàu ngầm tên lửa đạn đạo hạt nhân lớp columbia, ước tính lên tới hơn 40 năm
+0   "tàu ngầm thuộc dự án ssn(x) được kỳ vọng sẽ lấn át các đối thủ cạnh tranh sau khi xuất hiện, giúp hải quân mỹ duy trì ưu thế dưới lòng biển trong hàng thập kỷ tới", maya carlin, nhà phân tích tại trung tâm chính sách an ninh có trụ sở ở washington, cho biết
+
+

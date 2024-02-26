@@ -1,0 +1,4 @@
+Rouge1   : Score(precision=0.3493975903614458, recall=0.725, fmeasure=0.4715447154471545)
+Rouge2   : Score(precision=0.08536585365853659, recall=0.1794871794871795, fmeasure=0.11570247933884299)
+RougeL   : Score(precision=0.20481927710843373, recall=0.425, fmeasure=0.2764227642276423)
+RougeLsum: Score(precision=0.20481927710843373, recall=0.425, fmeasure=0.2764227642276423)
