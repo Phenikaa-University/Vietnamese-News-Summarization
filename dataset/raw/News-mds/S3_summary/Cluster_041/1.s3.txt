@@ -1,0 +1,51 @@
+0   tp hcmsau hỏa hoạn, nhiều tài sản trong nhà bị thiêu rụi, tường và la phông hư hỏng, cửa kính vỡ toang, trơ khung sắt, căn kề bên sụp đổ hoàn toàn
+0   trưa 17/2, cảnh sát vẫn phong tỏa hiện trường, điều tra vụ cháy nhà làm bốn người chết ở hẻm đường cách mạng tháng 8, phường 15, quận 10
+0   lửa bùng lên lúc khoảng 4h hôm nay ở tầng trệt, phòng bếp, sau đó lan lên lầu một của căn nhà treo biển "sửa điện lạnh, điện - nước" (màu xanh)
+1    trong nhà có 7 người, ba người ở tầng trệt kịp thoát ra ngoài, bốn người lầu một tử vong
+0   trưa 17/2, cảnh sát vẫn phong tỏa hiện trường, điều tra vụ cháy nhà làm bốn người chết ở hẻm đường cách mạng tháng 8, phường 15, quận 10
+0   lửa bùng lên lúc khoảng 4h hôm nay ở tầng trệt, phòng bếp, sau đó lan lên lầu một của căn nhà treo biển "sửa điện lạnh, điện - nước" (màu xanh)
+1    trong nhà có 7 người, ba người ở tầng trệt kịp thoát ra ngoài, bốn người lầu một tử vong
+0   tầng trệt của căn nhà cháy treo nhiều bằng khen, một số vật dụng bị cháy nham nhở, sức nóng làm la phông đổ xuống
+0    diện tích căn này khoảng 50 m2, phía sau là khu vực bếp, nhà vệ sinh, còn tầng trên có 4 phòng ngủ
+0   tầng trệt của căn nhà cháy treo nhiều bằng khen, một số vật dụng bị cháy nham nhở, sức nóng làm la phông đổ xuống
+0    diện tích căn này khoảng 50 m2, phía sau là khu vực bếp, nhà vệ sinh, còn tầng trên có 4 phòng ngủ
+0   căn nhà sát vách bên phải bị lửa cháy lan và đổ sập hoàn toàn
+0   theo hàng xóm, ngôi nhà này bán hàng online, chứa nhiều vật dụng dễ cháy nên lửa bùng dữ dội
+0    mọi người trong nhà may mắn chạy thoát
+0   căn nhà sát vách bên phải bị lửa cháy lan và đổ sập hoàn toàn
+0   theo hàng xóm, ngôi nhà này bán hàng online, chứa nhiều vật dụng dễ cháy nên lửa bùng dữ dội
+0    mọi người trong nhà may mắn chạy thoát
+0   phía trước lầu một của hai căn nhà bị cháy rụi
+0    phía trước ngôi nhà phát lửa đầu tiên rào khung sắt kiên cố kiểu "chuồng cọp"
+0    lối thoát duy nhất ở tầng trên là cầu thang gỗ rộng khoảng một mét
+0   phía trước lầu một của hai căn nhà bị cháy rụi
+0    phía trước ngôi nhà phát lửa đầu tiên rào khung sắt kiên cố kiểu "chuồng cọp"
+0    lối thoát duy nhất ở tầng trên là cầu thang gỗ rộng khoảng một mét
+0   cảnh sát khám nghiệm hiện trường hai căn nhà cháy, trong đó căn hai tầng bên trái đã sập đổ
+0   cảnh sát khám nghiệm hiện trường hai căn nhà cháy, trong đó căn hai tầng bên trái đã sập đổ
+0   toàn bộ tài sản trong ngôi nhà 4 người tử vong đã bị thiêu rụi, chỉ còn các thanh sắt chống chịu mái nhà, cửa sổ
+0   toàn bộ tài sản trong ngôi nhà 4 người tử vong đã bị thiêu rụi, chỉ còn các thanh sắt chống chịu mái nhà, cửa sổ
+0   các đồ dùng bằng nhựa, gỗ, quần áo cháy rụi thành than, cửa kính bị vỡ trơ khung sắt
+0   các đồ dùng bằng nhựa, gỗ, quần áo cháy rụi thành than, cửa kính bị vỡ trơ khung sắt
+0   sức nóng làm các bức tường của hai căn nhà sụp đổ, vết nứt kéo dài, nguy cơ đổ sập thêm
+0   sức nóng làm các bức tường của hai căn nhà sụp đổ, vết nứt kéo dài, nguy cơ đổ sập thêm
+0   mái tôn, tường các căn nhà xung quanh cũng bị cháy xém, ám khói đen
+0   mái tôn, tường các căn nhà xung quanh cũng bị cháy xém, ám khói đen
+0   phần tôn lấy sáng của nhà sát vách phía sau ngôi nhà cháy bị sức nóng nung chảy, làm hư hỏng la phông, dây điện cục nóng máy lạnh
+0   ông điệp, chủ nhà bị ảnh hưởng, cho biết khi cháy các bức tường rất nóng, cả nhà chạy ra ngoài
+0    "sự cố khiến nhà tôi mất điện từ sáng
+0    phải chờ công an khám nghiệm xong tôi mới gọi thợ đến sửa", ông nói
+0   phần tôn lấy sáng của nhà sát vách phía sau ngôi nhà cháy bị sức nóng nung chảy, làm hư hỏng la phông, dây điện cục nóng máy lạnh
+0   ông điệp, chủ nhà bị ảnh hưởng, cho biết khi cháy các bức tường rất nóng, cả nhà chạy ra ngoài
+0    "sự cố khiến nhà tôi mất điện từ sáng
+0    phải chờ công an khám nghiệm xong tôi mới gọi thợ đến sửa", ông nói
+0   một số tài sản, vật dụng rất ít như xe đạp, quạt máy trong các nhà cháy được đưa ra ngoài
+0   một số tài sản, vật dụng rất ít như xe đạp, quạt máy trong các nhà cháy được đưa ra ngoài
+0   sau khoảng 4 giờ xảy ra hoả hoạn, thi thể nạn nhân trong một gia đình gồm: nguyễn thị hồng xuân (46 tuổi), lê thị hồng tuyết (47 tuổi), trần quốc cường (38 tuổi) và lê hoàng dũng (56 tuổi) đã được đưa đi khỏi hiện trường
+0   sau khoảng 4 giờ xảy ra hoả hoạn, thi thể nạn nhân trong một gia đình gồm: nguyễn thị hồng xuân (46 tuổi), lê thị hồng tuyết (47 tuổi), trần quốc cường (38 tuổi) và lê hoàng dũng (56 tuổi) đã được đưa đi khỏi hiện trường
+0   nhân chứng kể thời điểm lửa bùng lên ở căn nhà
+0    video: nguyễn điệp - đình vănkhu vực xảy ra hoả hoạn
+0    đồ hoạ: đăng hiếukhu vực xảy ra hoả hoạn
+0    đồ hoạ: đăng hiếu
+
+
