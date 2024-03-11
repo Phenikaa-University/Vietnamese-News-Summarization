@@ -1,0 +1,3 @@
+[submodule "dataset/raw/Vietnamese-News-Summarization_dataset"]
+	path = dataset/raw/Vietnamese-News-Summarization_dataset
+	url = https://github.com/qkhanh711/NLP_final.git
